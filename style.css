@@ -1,0 +1,38 @@
+.menu-illustration{
+    background: #F0FFF0;
+}
+.logo{
+    width: 190px;
+    height: 90px;
+}
+.sign-btn{
+    color: white;
+    background-color: #21B573;
+    width: 100px;
+    height: 40px;
+    border-radius: 22px;
+    border: none;
+}
+.get-btn{
+    color: white;
+    background-color: #21B573;
+    border-radius: 22px;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 15px;
+
+}
+.illustration{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.ready{
+    color: #FD511A;
+}
+#schedule{
+    color: #21B573;
+}
+.fun{
+    color: #000000;
+    font-weight: bolder;
+}
