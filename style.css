@@ -38,7 +38,7 @@
 }
 .icon-img{
     width: 60px;
-    height: 75px;
+    height: 70px;
     margin: auto;
     margin-top: 20px;
 }
@@ -51,4 +51,10 @@
 }
 #cd{
     background: #FFFFFF;
+}
+.card-title{
+    color: #413960;
+}
+.card-text, .lorem{
+    color: #585859;
 }
