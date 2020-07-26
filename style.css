@@ -58,3 +58,66 @@
 .card-text, .lorem{
     color: #585859;
 }
+.o-c{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    color: #413960;
+}
+.man-img{
+    width: 22%;
+    height: 26%;
+    margin-top: 152px;
+}
+.testimonial{
+    margin: 70px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.testimonial-text{
+    margin-bottom: 80px;
+}
+.footer{
+    background: black;
+    color: white;
+}
+.footer-text{
+    margin-top: 75px;
+    font-style: normal;
+    font-size: 18px;
+}
+.footer-row{
+    margin-bottom: 150px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+ul li{
+    list-style: none;
+}
+.f-head{
+    margin-left: 39px;
+}
+.col-md-2{
+    margin-top: 75px;
+}
+
+.start-left{
+    float: left;
+}
+.start-right{
+    float: right;
+}
+.start-text{
+    margin-top: 20px;
+}
+.h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #413960;
+}
